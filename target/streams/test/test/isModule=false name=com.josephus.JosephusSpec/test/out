@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0mJosephusSpec[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m This is a specification for the Josephus problem[0m
+[0m[[0minfo[0m] [0m    [32m+[0m where parameters are invalid[0m
+[0m[[0minfo[0m] [0m    [32m+[0m where total number is 4 and the skipping value is 1[0m
+[0m[[0minfo[0m] [0m    [32m+[0m where total number is 4 and the skipping value is 2[0m
+[0m[[0minfo[0m] [0m    [32m+[0m where total number is 4 and the skipping value is 3[0m
+[0m[[0minfo[0m] [0m    [32m+[0m where total number is 4 and the skipping value is 4[0m
+[0m[[0minfo[0m] [0m    [32m+[0m where total number is 41 and the skipping value is 3[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mTotal for specification JosephusSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 486 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m6 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[0m

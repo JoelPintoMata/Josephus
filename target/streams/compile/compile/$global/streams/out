@@ -1,15 +1,61 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
-[0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	removed:Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala, /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala, /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala)[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala, /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala, /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala, /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala)[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala, /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala, /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala, /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7b887a1b, interfacing (CompilerInterface) with Scala compiler version 2.11.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/joel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.522697775 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, Main, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, findSurvivorOptimized, findSurvivorRecursively, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, findSkipping, ==, clone, Josephus, currentPos, toString, !=, getClass, kAux, ne, eq, ##, finalize, hashCode, findSurvivor.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala: Set(findSurvivorOptimized, <init>, ==, Josephus)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, findSurvivorOptimized, findSurvivorRecursively, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, findSkipping, ==, clone, Josephus, currentPos, toString, !=, getClass, kAux, ne, eq, ##, finalize, hashCode, findSurvivor.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, Main, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

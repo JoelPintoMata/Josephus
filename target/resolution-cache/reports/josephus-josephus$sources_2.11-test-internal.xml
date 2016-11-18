@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20161114143533"/>
+		date="20161118083918"/>
 	<dependencies>
 		<module organisation="org.specs2" name="specs2-core_2.11">
 			<revision name="3.8.6" status="release" pubdate="20161102124405" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://specs2.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
@@ -15,8 +15,8 @@
 				<metadata-artifact status="no" details="" size="3286" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-core_2.11/ivy-3.8.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6.pom"/>
 				<caller organisation="josephus" name="josephus$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="3.8.6" rev-constraint-default="3.8.6" rev-constraint-dynamic="3.8.6" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="specs2-core_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="104566" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-core_2.11/srcs/specs2-core_2.11-3.8.6-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6-sources.jar"/>
+					<artifact name="specs2-core_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="104566" time="138" location="/home/joel/.ivy2/cache/org.specs2/specs2-core_2.11/srcs/specs2-core_2.11-3.8.6-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6-sources.jar"/>
 					</artifact>
 					<artifact name="specs2-core_2.11" type="jar" ext="jar" status="no" details="" size="2131354" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-3.8.6.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6.jar"/>
@@ -30,8 +30,8 @@
 				<metadata-artifact status="no" details="" size="2674" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-matcher_2.11/ivy-3.8.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6.pom"/>
 				<caller organisation="josephus" name="josephus$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="3.8.6" rev-constraint-default="3.8.6" rev-constraint-dynamic="3.8.6" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="specs2-matcher_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="60625" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-matcher_2.11/srcs/specs2-matcher_2.11-3.8.6-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6-sources.jar"/>
+					<artifact name="specs2-matcher_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="60625" time="104" location="/home/joel/.ivy2/cache/org.specs2/specs2-matcher_2.11/srcs/specs2-matcher_2.11-3.8.6-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6-sources.jar"/>
 					</artifact>
 					<artifact name="specs2-matcher_2.11" type="jar" ext="jar" status="no" details="" size="3007885" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-matcher_2.11/jars/specs2-matcher_2.11-3.8.6.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6.jar"/>
@@ -45,8 +45,8 @@
 				<metadata-artifact status="no" details="" size="3712" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-common_2.11/ivy-3.8.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6.pom"/>
 				<caller organisation="josephus" name="josephus$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="3.8.6" rev-constraint-default="3.8.6" rev-constraint-dynamic="3.8.6" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="specs2-common_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="151119" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-common_2.11/srcs/specs2-common_2.11-3.8.6-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6-sources.jar"/>
+					<artifact name="specs2-common_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="151119" time="122" location="/home/joel/.ivy2/cache/org.specs2/specs2-common_2.11/srcs/specs2-common_2.11-3.8.6-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6-sources.jar"/>
 					</artifact>
 					<artifact name="specs2-common_2.11" type="jar" ext="jar" status="no" details="" size="2881074" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-common_2.11/jars/specs2-common_2.11-3.8.6.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6.jar"/>
@@ -63,23 +63,23 @@
 					<artifact name="scala-xml_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="109244" time="0" location="/home/joel/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/srcs/scala-xml_2.11-1.0.5-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5-sources.jar"/>
 					</artifact>
-					<artifact name="scala-xml_2.11" type="jar" ext="jar" status="no" details="" size="671138" time="0" location="/home/joel/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/jars/scala-xml_2.11-1.0.5.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5.jar"/>
+					<artifact name="scala-xml_2.11" type="jar" ext="jar" status="successful" details="" size="671138" time="166" location="/home/joel/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/jars/scala-xml_2.11-1.0.5.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11">
-			<revision name="1.0.4" status="release" pubdate="20150430160700" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="9">
+			<revision name="1.0.4" status="release" pubdate="20150430160747" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="9">
 				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
-				<metadata-artifact status="no" details="" size="2929" time="0" location="/home/joel/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/ivy-1.0.4.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.pom"/>
+				<metadata-artifact status="no" details="" size="2929" time="0" location="/home/joel/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/ivy-1.0.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.pom"/>
 				<caller organisation="josephus" name="josephus$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="1.0.4" rev-constraint-default="1.0.4" rev-constraint-dynamic="1.0.4" callerrev="1.0"/>
 				<artifacts>
 					<artifact name="scala-parser-combinators_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="42276" time="0" location="/home/joel/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/srcs/scala-parser-combinators_2.11-1.0.4-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar"/>
 					</artifact>
-					<artifact name="scala-parser-combinators_2.11" type="jar" ext="jar" status="no" details="" size="423753" time="0" location="/home/joel/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/jars/scala-parser-combinators_2.11-1.0.4.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar"/>
+					<artifact name="scala-parser-combinators_2.11" type="jar" ext="jar" status="successful" details="" size="423753" time="183" location="/home/joel/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/jars/scala-parser-combinators_2.11-1.0.4.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -108,8 +108,8 @@
 					<artifact name="specs2-codata_2.11" type="jar" ext="jar" status="no" details="" size="1231794" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-codata_2.11/jars/specs2-codata_2.11-3.8.6.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-codata_2.11/3.8.6/specs2-codata_2.11-3.8.6.jar"/>
 					</artifact>
-					<artifact name="specs2-codata_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="59883" time="0" location="/home/joel/.ivy2/cache/org.specs2/specs2-codata_2.11/srcs/specs2-codata_2.11-3.8.6-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-codata_2.11/3.8.6/specs2-codata_2.11-3.8.6-sources.jar"/>
+					<artifact name="specs2-codata_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="59883" time="122" location="/home/joel/.ivy2/cache/org.specs2/specs2-codata_2.11/srcs/specs2-codata_2.11-3.8.6-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/specs2/specs2-codata_2.11/3.8.6/specs2-codata_2.11-3.8.6-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -120,11 +120,11 @@
 				<metadata-artifact status="no" details="" size="2823" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/ivy-7.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7.pom"/>
 				<caller organisation="josephus" name="josephus$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="7.2.7" rev-constraint-default="7.2.7" rev-constraint-dynamic="7.2.7" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalaz-concurrent_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="20456" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/srcs/scalaz-concurrent_2.11-7.2.7-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7-sources.jar"/>
+					<artifact name="scalaz-concurrent_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="20456" time="118" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/srcs/scalaz-concurrent_2.11-7.2.7-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7-sources.jar"/>
 					</artifact>
-					<artifact name="scalaz-concurrent_2.11" type="jar" ext="jar" status="no" details="" size="343136" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/jars/scalaz-concurrent_2.11-7.2.7.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7.jar"/>
+					<artifact name="scalaz-concurrent_2.11" type="jar" ext="jar" status="successful" details="" size="343136" time="1045" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/jars/scalaz-concurrent_2.11-7.2.7.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -135,11 +135,11 @@
 				<metadata-artifact status="no" details="" size="2664" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-effect_2.11/ivy-7.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7.pom"/>
 				<caller organisation="josephus" name="josephus$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="7.2.7" rev-constraint-default="7.2.7" rev-constraint-dynamic="7.2.7" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalaz-effect_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="22506" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-effect_2.11/srcs/scalaz-effect_2.11-7.2.7-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7-sources.jar"/>
+					<artifact name="scalaz-effect_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="22506" time="118" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-effect_2.11/srcs/scalaz-effect_2.11-7.2.7-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7-sources.jar"/>
 					</artifact>
-					<artifact name="scalaz-effect_2.11" type="jar" ext="jar" status="no" details="" size="435690" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-effect_2.11/jars/scalaz-effect_2.11-7.2.7.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7.jar"/>
+					<artifact name="scalaz-effect_2.11" type="jar" ext="jar" status="successful" details="" size="435690" time="924" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-effect_2.11/jars/scalaz-effect_2.11-7.2.7.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -150,11 +150,11 @@
 				<metadata-artifact status="no" details="" size="2513" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-core_2.11/ivy-7.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7.pom"/>
 				<caller organisation="josephus" name="josephus$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="7.2.7" rev-constraint-default="7.2.7" rev-constraint-dynamic="7.2.7" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalaz-core_2.11" type="jar" ext="jar" status="no" details="" size="11795511" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-core_2.11/jars/scalaz-core_2.11-7.2.7.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7.jar"/>
+					<artifact name="scalaz-core_2.11" type="jar" ext="jar" status="successful" details="" size="11795511" time="2781" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-core_2.11/jars/scalaz-core_2.11-7.2.7.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7.jar"/>
 					</artifact>
-					<artifact name="scalaz-core_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="366514" time="0" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.2.7-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7-sources.jar"/>
+					<artifact name="scalaz-core_2.11" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="366514" time="1687" location="/home/joel/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.2.7-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -173,9 +173,9 @@
 					</artifact>
 				</artifacts>
 			</revision>
-			<revision name="2.11.5" status="release" pubdate="20150106193212" resolver="sbt-chain" artresolver="sbt-chain" evicted="latest-revision" evicted-reason="" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.5/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="-1">
+			<revision name="2.11.5" status="release" pubdate="20150107013212" resolver="sbt-chain" artresolver="sbt-chain" evicted="latest-revision" evicted-reason="" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.5/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="-1">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
-				<metadata-artifact status="no" details="" size="2640" time="0" location="/home/joel/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.5.xml" searched="false" origin-is-local="true" origin-location="/home/joel/Documents/software/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.5/ivys/ivy.xml"/>
+				<metadata-artifact status="no" details="" size="2653" time="0" location="/home/joel/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5.pom"/>
 				<evicted-by rev="2.11.8"/>
 				<caller organisation="josephus" name="josephus$sources_2.11" conf="test, compile, provided, test-internal, runtime, optional" rev="2.11.5" rev-constraint-default="2.11.5" rev-constraint-dynamic="2.11.5" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.5/"/>
 				<artifacts>

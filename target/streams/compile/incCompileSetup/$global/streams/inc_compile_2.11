@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /home/joel/ShoprSource/GoNitro/target/scala-2.11/classes
+output dir -> /home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes
 compile options:
 0 items
 javac options:
@@ -20,18 +20,18 @@ name hashing:
 0 -> true
 products:
 6 items
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> /home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Josephus$$anonfun$findSurvivor$1.class
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> /home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Josephus$$anonfun$findSurvivorRecursively$1.class
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> /home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Josephus.class
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> /home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Main$$anonfun$main$1.class
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> /home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Main$.class
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> /home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Main.class
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> /home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Josephus$$anonfun$findSurvivor$1.class
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> /home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Josephus$$anonfun$findSurvivorRecursively$1.class
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> /home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Josephus.class
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> /home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Main$$anonfun$main$1.class
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> /home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Main$.class
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> /home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Main.class
 binary dependencies:
 4 items
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> /home/joel/Documents/software/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.5/jars/scala-library.jar
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> /home/joel/Documents/software/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.5/jars/scala-library.jar
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> /home/joel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> /home/joel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -42,7 +42,7 @@ public inherited external dependencies:
 0 items
 member reference internal dependencies:
 1 items
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> /home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> /home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -51,133 +51,131 @@ inheritance external dependencies:
 0 items
 class names:
 6 items
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> com.gonitro.josephus.Josephus
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> com.gonitro.josephus.Josephus$$anonfun$findSurvivor$1
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> com.gonitro.josephus.Josephus$$anonfun$findSurvivorRecursively$1
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> com.gonitro.josephus.Main
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> com.gonitro.josephus.Main$
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> com.gonitro.josephus.Main$$anonfun$main$1
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> com.josephus.Josephus
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> com.josephus.Josephus$$anonfun$findSurvivor$1
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> com.josephus.Josephus$$anonfun$findSurvivorRecursively$1
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> com.josephus.Main
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> com.josephus.Main$
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> com.josephus.Main$$anonfun$main$1
 used names:
-83 items
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> %
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> +
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> -
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> <init>
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> ==
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> >
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> >=
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> AnyRef
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> Int
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> Integer
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> Integer2int
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> JInteger
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> JLinkedList
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> JList
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> Josephus
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> LinkedList
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> List
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> Predef
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> add
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> annotation
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> com
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> currentPos
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> currentPos_=
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> elements
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> elementsAux
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> findSkipping
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> findSurvivorOptimized
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> findSurvivorRecursion
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> foreach
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> get
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> gonitro
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> i
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> intWrapper
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> java
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> josephus
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> k
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> kAux
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> kAux_=
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> lang
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> n
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> remove
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> require
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> scala
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> size
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> skippingAux
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> tailrec
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> to
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> util
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> while$1
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> while$2
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> <init>
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> ==
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> AnyRef
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> Array
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> Integer
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> JInteger
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> JLinkedList
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> JList
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> Josephus
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> LinkedList
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> List
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> Main
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> Predef
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> String
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> Unit
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> apply
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> args
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> augmentString
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> com
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> findSurvivorOptimized
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> gonitro
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> java
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> josephus
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> killingEvery
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> lang
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> numOfSoldiers
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> println
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> refArrayOps
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> require
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> scala
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> size
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> toInt
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> util
+81 items
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> %
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> +
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> -
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> <init>
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> ==
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> >
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> >=
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> AnyRef
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> Int
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> Integer
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> Integer2int
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> JInteger
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> JLinkedList
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> JList
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> Josephus
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> LinkedList
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> List
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> Predef
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> add
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> annotation
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> com
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> currentPos
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> currentPos_=
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> elements
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> elementsAux
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> findSkipping
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> findSurvivorOptimized
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> findSurvivorRecursion
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> foreach
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> get
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> i
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> intWrapper
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> java
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> josephus
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> k
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> kAux
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> kAux_=
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> lang
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> n
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> remove
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> require
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> scala
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> size
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> skippingAux
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> tailrec
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> to
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> util
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> while$1
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> while$2
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> <init>
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> ==
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> AnyRef
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> Array
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> Integer
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> JInteger
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> JLinkedList
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> JList
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> Josephus
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> LinkedList
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> List
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> Main
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> Predef
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> String
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> Unit
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> apply
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> args
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> augmentString
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> com
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> findSurvivorOptimized
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> java
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> josephus
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> killingEvery
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> lang
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> numOfSoldiers
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> println
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> refArrayOps
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> require
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> scala
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> size
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> toInt
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> util
 product stamps:
 6 items
-/home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Josephus$$anonfun$findSurvivor$1.class -> lastModified(1479130722000)
-/home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Josephus$$anonfun$findSurvivorRecursively$1.class -> lastModified(1479130722000)
-/home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Josephus.class -> lastModified(1479130722000)
-/home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Main$$anonfun$main$1.class -> lastModified(1479130746000)
-/home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Main$.class -> lastModified(1479130746000)
-/home/joel/ShoprSource/GoNitro/target/scala-2.11/classes/com/gonitro/josephus/Main.class -> lastModified(1479130746000)
+/home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Josephus$$anonfun$findSurvivor$1.class -> lastModified(1479454902000)
+/home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Josephus$$anonfun$findSurvivorRecursively$1.class -> lastModified(1479454902000)
+/home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Josephus.class -> lastModified(1479454902000)
+/home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Main$$anonfun$main$1.class -> lastModified(1479454902000)
+/home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Main$.class -> lastModified(1479454902000)
+/home/joel/Documents/shoprSource/GoNitro/target/scala-2.11/classes/com/josephus/Main.class -> lastModified(1479454902000)
 source stamps:
 2 items
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> hash(5fa524ba943014a25503f3f2330d2bfda8bbea95)
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> hash(1d1b7a50821686d91bc83efa576c00efd474984a)
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> hash(66ea2cb389115a7cda3b7eca6afad2428e0328fd)
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> hash(a176d0977ded3c0dab63812f31d82ecb5f6fbced)
 binary stamps:
 2 items
-/home/joel/Documents/software/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.5/jars/scala-library.jar -> lastModified(1441270764000)
-/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1470053697000)
+/home/joel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590731000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1479284820000)
 class names:
 2 items
-/home/joel/Documents/software/activator-dist-1.3.6/repository/org.scala-lang/scala-library/2.11.5/jars/scala-library.jar -> scala.collection.immutable.StringLike
+/home/joel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.collection.immutable.StringLike
 /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 2 items
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA9xIU0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cK+mg5h0AAZub3RpZnlzcQB+AAwICndpdAAVZmluZFN1cnZpdm9yT3B0aW1pemVkc3EAfgAMKNb14XQAF2ZpbmRTdXJ2aXZvclJlY3Vyc2l2ZWx5c3EAfgAMma1fgHQABHdhaXRzcQB+AAy0Ca4LdAANJGFzSW5zdGFuY2VPZnNxAH4ADFcfA3x0AAZlcXVhbHNzcQB+AAwZumAhdAAMYXNJbnN0YW5jZU9mc3EAfgAMilY09HQADHN5bmNocm9uaXplZHNxAH4ADPtC75N0AA0kaXNJbnN0YW5jZU9mc3EAfgAMFSJSAHQACW5vdGlmeUFsbHNxAH4ADJD5+gp0AAxpc0luc3RhbmNlT2ZzcQB+AAxGvRpIdAAGPGluaXQ+c3EAfgAMeM2eLHQADGZpbmRTa2lwcGluZ3NxAH4ADENA2aR0AAI9PXNxAH4ADMz0agB0AAVjbG9uZXNxAH4ADKGUhwN0AAhKb3NlcGh1c3NxAH4ADGSe5JF0AApjdXJyZW50UG9zc3EAfgAMykT+YnQACHRvU3RyaW5nc3EAfgAMHLnQf3QAAiE9c3EAfgAMs5PbonQACGdldENsYXNzc3EAfgAMlFGjm3QABGtBdXhzcQB+AAy26h52dAACbmVzcQB+AAzSxc2/dAACZXFzcQB+AAxX9lWMdAACIyNzcQB+AAxF7JTTdAAIZmluYWxpemVzcQB+AAwy9kDWdAAIaGFzaENvZGVzcQB+AAz767T2dAAMZmluZFN1cnZpdm9yc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHWNvbS5nb25pdHJvLmpvc2VwaHVzLkpvc2VwaHVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBmeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG5zcQB+AGUBdXEAfgBIAAAAAHBzcQB+AGUBdXEAfgBIAAAAAHBzcQB+AGUBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCGdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCHc3EAfgB6dAADQW55c3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnQABXNjYWxhcQB+AI1wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbS5nb25pdHJvc3EAfgCXdAAUY29tLmdvbml0cm8uam9zZXBodXNzcQB+AJd0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVhjD63jdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9ob21lL2pvZWwvU2hvcHJTb3VyY2UvR29OaXRyby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUX6UkupQwFKJVA/PyMw0r/ai76pU=
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCYTYz/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJFB+GJ0AAZub3RpZnlzcQB+AAzEdYGhdAAEd2FpdHNxAH4ADA/J9mx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMNJ7t4HQABmVxdWFsc3NxAH4ADEMB70h0AAxhc0luc3RhbmNlT2ZzcQB+AAyfZshfdAAMc3luY2hyb25pemVkc3EAfgAM6PXnSXQADSRpc0luc3RhbmNlT2ZzcQB+AAyPoKvtdAAEbWFpbnNxAH4ADAKaTIF0AAlub3RpZnlBbGxzcQB+AAxGAg1cdAAMaXNJbnN0YW5jZU9mc3EAfgAMEAnBoHQAAj09c3EAfgAMYEzcmXQABWNsb25lc3EAfgAMfTucNXQABE1haW5zcQB+AAxvIgDEdAAIdG9TdHJpbmdzcQB+AAxca85odAACIT1zcQB+AAxAAurUdAAIZ2V0Q2xhc3NzcQB+AAyvqzkBdAACbmVzcQB+AAyLcwuHdAACZXFzcQB+AAyYkZpzdAACIyNzcQB+AAwxV7IUdAAIZmluYWxpemVzcQB+AAziR6TadAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAZY29tLmdvbml0cm8uam9zZXBodXMuTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBgc3EAfgBZAXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgRxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF9zcQB+AG50AAVBcnJheXEAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG50AAZTdHJpbmdzcQB+AHJzcQB+AHV1cQB+AHgAAAADc3EAfgB6dAAEamF2YXNxAH4AenQABGxhbmdxAH4Af3BzcQB+AFkBdXEAfgA8AAAAAHBzcQB+AFkBdXEAfgCTAAAAAnNxAH4AbnQABk9iamVjdHEAfgCXc3EAfgBudAADQW55cQB+AHRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbS5nb25pdHJvc3EAfgCodAAUY29tLmdvbml0cm8uam9zZXBodXNzcQB+AKh0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVhjEAxmdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9ob21lL2pvZWwvU2hvcHJTb3VyY2UvR29OaXRyby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHRt6UIIWhtkbyD76V2wA79R0mEo=
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBsFx46AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA+38450AAZub3RpZnlzcQB+AAw7ZrWqdAAVZmluZFN1cnZpdm9yT3B0aW1pemVkc3EAfgAMBcMB0nQAF2ZpbmRTdXJ2aXZvclJlY3Vyc2l2ZWx5c3EAfgAMY1WkdXQABHdhaXRzcQB+AAywc654dAANJGFzSW5zdGFuY2VPZnNxAH4ADL0Kmdx0AAZlcXVhbHNzcQB+AAyljj7hdAAMYXNJbnN0YW5jZU9mc3EAfgAM6nSABHQADHN5bmNocm9uaXplZHNxAH4ADIRuGCl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMxx4ueXQACW5vdGlmeUFsbHNxAH4ADMlRl050AAxpc0luc3RhbmNlT2ZzcQB+AAwp4UbYdAAGPGluaXQ+c3EAfgAMr0hICHQADGZpbmRTa2lwcGluZ3NxAH4ADGr8PVh0AAI9PXNxAH4ADGB1zJh0AAVjbG9uZXNxAH4ADDieGK90AAhKb3NlcGh1c3NxAH4ADDexY5N0AApjdXJyZW50UG9zc3EAfgAMWC9Io3QACHRvU3RyaW5nc3EAfgAMzo94YnQAAiE9c3EAfgAMJXqGenQACGdldENsYXNzc3EAfgAMGmJ0wXQABGtBdXhzcQB+AAxTpSyDdAACbmVzcQB+AAzEj9hGdAACZXFzcQB+AAxuVXLFdAACIyNzcQB+AAxapGbrdAAIZmluYWxpemVzcQB+AAzqCOOZdAAIaGFzaENvZGVzcQB+AAxEEShNdAAMZmluZFN1cnZpdm9yc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFWNvbS5qb3NlcGh1cy5Kb3NlcGh1c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQBwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbnNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCKdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgB+dAADQW55c3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinQABXNjYWxhcQB+AJF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAxjb20uam9zZXBodXNzcQB+AJt0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVh2Yj2sdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQi9ob21lL2pvZWwvRG9jdW1lbnRzL3Nob3ByU291cmNlL0dvTml0cm8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGbqLLOJEVp82jt+ymr60kKOAyj9
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCVi7BhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLjrQON0AAZub3RpZnlzcQB+AAzk0FxldAAEd2FpdHNxAH4ADEBIrz90AA0kYXNJbnN0YW5jZU9mc3EAfgAM0MCYT3QABmVxdWFsc3NxAH4ADDGBLpl0AAxhc0luc3RhbmNlT2ZzcQB+AAwiuB/6dAAMc3luY2hyb25pemVkc3EAfgAMpXGQp3QADSRpc0luc3RhbmNlT2ZzcQB+AAzHPP7VdAAEbWFpbnNxAH4ADILaXi10AAlub3RpZnlBbGxzcQB+AAyCYTQTdAAMaXNJbnN0YW5jZU9mc3EAfgAMiSl/mHQAAj09c3EAfgAMt6U7THQABWNsb25lc3EAfgAMC+LXV3QABE1haW5zcQB+AAxjYVlBdAAIdG9TdHJpbmdzcQB+AAx4VIKidAACIT1zcQB+AAy10JX2dAAIZ2V0Q2xhc3NzcQB+AAyrcOwKdAACbmVzcQB+AAy+h7zJdAACZXFzcQB+AAyjNrOadAACIyNzcQB+AAxQYW8ddAAIZmluYWxpemVzcQB+AAzVdUl0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARY29tLmpvc2VwaHVzLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBaeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZAHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBic3EAfgBZAHBzcQB+AF51cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4EcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBseHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBhc3EAfgBydAAFQXJyYXlxAH4AeHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBydAAGU3RyaW5nc3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnQABGphdmFzcQB+AH50AARsYW5ncQB+AINzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVxAH4AlwAAAAJzcQB+AHJ0AAZPYmplY3RxAH4Am3NxAH4AcnQAA0FueXEAfgB4dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAMY29tLmpvc2VwaHVzc3EAfgCudAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFYdmI9rHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvaG9tZS9qb2VsL0RvY3VtZW50cy9zaG9wclNvdXJjZS9Hb05pdHJvL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABShdtCXfe08DatjgS8x2C7LX2+87Q==
 external apis:
 0 items
 source infos:
 2 items
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Josephus.scala -> 
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Josephus.scala -> 
 AAAAAAAAAAA=
-/home/joel/ShoprSource/GoNitro/src/main/scala/com/gonitro/josephus/Main.scala -> 
+/home/joel/Documents/shoprSource/GoNitro/src/main/scala/com/josephus/Main.scala -> 
 AAAAAAAAAAA=
 compilations:
-67 items
+69 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFqk2Ad1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9ndXlicnVzaHRyZWVwd29vZC9naXQvSmF2YS9Hb05pdHJvL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFqowS51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9ndXlicnVzaHRyZWVwd29vZC9naXQvSmF2YS9Hb05pdHJvL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFqxFfN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9ndXlicnVzaHRyZWVwd29vZC9naXQvSmF2YS9Hb05pdHJvL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
@@ -245,3 +243,5 @@ compilations:
 64 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGMPreN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL2pvZWwvU2hvcHJTb3VyY2UvR29OaXRyby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
 65 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGMPr2B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL2pvZWwvU2hvcHJTb3VyY2UvR29OaXRyby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
 66 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWGMQDGZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL2pvZWwvU2hvcHJTb3VyY2UvR29OaXRyby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+67 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWHZexjB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL2pvZWwvRG9jdW1lbnRzL3Nob3ByU291cmNlL0dvTml0cm8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+68 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWHZiPax1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL2pvZWwvRG9jdW1lbnRzL3Nob3ByU291cmNlL0dvTml0cm8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

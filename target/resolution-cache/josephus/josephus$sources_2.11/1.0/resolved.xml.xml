@@ -4,7 +4,7 @@
 		module="josephus$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20161114143533"
+		publication="20161118083918"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for josephus#josephus$sources_2.11;1.0 [compile]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang#scala-library;2.11.5 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@387bbdf6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3846607f
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.5
 [debug] 	found org.scala-lang#scala-library;2.11.5 in sbt-chain
 [debug] 	[2.11.5] org.scala-lang#scala-library;2.11.5
@@ -32,7 +32,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.8.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-core_2.11;3.8.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7b845ffb
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a77a7bf
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-core_2.11;3.8.6
 [debug] 	found org.specs2#specs2-core_2.11;3.8.6 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.8.6 [test->runtime]
@@ -40,7 +40,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-core_2.11;3.8.6 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@567ce1af
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62473f91
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.8
 [debug] 	found org.scala-lang#scala-library;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-library;2.11.8
@@ -49,7 +49,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang#scala-library;2.11.8 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.8.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-matcher_2.11;3.8.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5927a04f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@271040c0
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-matcher_2.11;3.8.6
 [debug] 	found org.specs2#specs2-matcher_2.11;3.8.6 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.8.6 [test->runtime]
@@ -57,7 +57,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-matcher_2.11;3.8.6 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.8.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-common_2.11;3.8.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31c5bf21
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7bbd59ef
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-common_2.11;3.8.6
 [debug] 	found org.specs2#specs2-common_2.11;3.8.6 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.8.6 [test->runtime]
@@ -65,7 +65,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-common_2.11;3.8.6 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-codata_2.11;3.8.6 [test->default(compile)]
 [info] Resolving org.specs2#specs2-codata_2.11;3.8.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d775f2b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10fe017a
 [debug] sbt-chain: module revision found in cache: org.specs2#specs2-codata_2.11;3.8.6
 [debug] 	found org.specs2#specs2-codata_2.11;3.8.6 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-codata_2.11;3.8.6 [test->runtime]
@@ -73,7 +73,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.specs2#specs2-codata_2.11;3.8.6 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.2.7 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-core_2.11;7.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5b408317
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b04d974
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-core_2.11;7.2.7
 [debug] 	found org.scalaz#scalaz-core_2.11;7.2.7 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.2.7 [test->runtime]
@@ -81,7 +81,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-core_2.11;7.2.7 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.2.7 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-effect_2.11;7.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@308f4440
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@748978a6
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-effect_2.11;7.2.7
 [debug] 	found org.scalaz#scalaz-effect_2.11;7.2.7 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.2.7 [test->runtime]
@@ -89,7 +89,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-effect_2.11;7.2.7 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.2.7 [test->default(compile)]
 [info] Resolving org.scalaz#scalaz-concurrent_2.11;7.2.7 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@28ac240d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7fa51b3d
 [debug] sbt-chain: module revision found in cache: org.scalaz#scalaz-concurrent_2.11;7.2.7
 [debug] 	found org.scalaz#scalaz-concurrent_2.11;7.2.7 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.2.7 [test->runtime]
@@ -97,7 +97,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scalaz#scalaz-concurrent_2.11;7.2.7 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.8 [test->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.11.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33c07ccf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36484720
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.8
 [debug] 	found org.scala-lang#scala-reflect;2.11.8 in sbt-chain
 [debug] 	[2.11.8] org.scala-lang#scala-reflect;2.11.8
@@ -106,7 +106,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang#scala-reflect;2.11.8 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@574d359a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4eb01e4b
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4
 [debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [test->runtime]
@@ -114,7 +114,7 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4 [test->master]
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.5 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@226e8d7a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69ca94a0
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.5
 [debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.5 in sbt-chain
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->org.scala-lang.modules#scala-xml_2.11;1.0.5 [test->runtime]
@@ -316,47 +316,155 @@
 [debug] == resolving dependencies josephus#josephus$sources_2.11;1.0->jline#jline;2.12 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar
+[debug] 		tried /home/joel/.ivy2/local/org.scala-lang/scala-library/2.11.5/srcs/scala-library-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.11.5!scala-library.jar(src) (867ms)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.8!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.8!scala-library.jar
-[debug] 	[NOT REQUIRED] org.specs2#specs2-core_2.11;3.8.6!specs2-core_2.11.jar(src)
+[debug] 		tried /home/joel/.ivy2/local/org.specs2/specs2-core_2.11/3.8.6/srcs/specs2-core_2.11-sources.jar
 [debug] 	[NOT REQUIRED] org.specs2#specs2-core_2.11;3.8.6!specs2-core_2.11.jar
-[debug] 	[NOT REQUIRED] org.specs2#specs2-matcher_2.11;3.8.6!specs2-matcher_2.11.jar(src)
+[debug] 		tried https://jcenter.bintray.com/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6-sources.jar
+[info] downloading https://jcenter.bintray.com/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/specs2/specs2-core_2.11/3.8.6/specs2-core_2.11-3.8.6-sources.jar
+[info] 	[SUCCESSFUL ] org.specs2#specs2-core_2.11;3.8.6!specs2-core_2.11.jar(src) (138ms)
+[debug] 		tried /home/joel/.ivy2/local/org.specs2/specs2-matcher_2.11/3.8.6/srcs/specs2-matcher_2.11-sources.jar
 [debug] 	[NOT REQUIRED] org.specs2#specs2-matcher_2.11;3.8.6!specs2-matcher_2.11.jar
-[debug] 	[NOT REQUIRED] org.specs2#specs2-common_2.11;3.8.6!specs2-common_2.11.jar(src)
+[debug] 		tried https://jcenter.bintray.com/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6-sources.jar
+[info] downloading https://jcenter.bintray.com/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/specs2/specs2-matcher_2.11/3.8.6/specs2-matcher_2.11-3.8.6-sources.jar
+[info] 	[SUCCESSFUL ] org.specs2#specs2-matcher_2.11;3.8.6!specs2-matcher_2.11.jar(src) (104ms)
+[debug] 		tried /home/joel/.ivy2/local/org.specs2/specs2-common_2.11/3.8.6/srcs/specs2-common_2.11-sources.jar
 [debug] 	[NOT REQUIRED] org.specs2#specs2-common_2.11;3.8.6!specs2-common_2.11.jar
+[debug] 		tried https://jcenter.bintray.com/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6-sources.jar
+[info] downloading https://jcenter.bintray.com/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/specs2/specs2-common_2.11/3.8.6/specs2-common_2.11-3.8.6-sources.jar
+[info] 	[SUCCESSFUL ] org.specs2#specs2-common_2.11;3.8.6!specs2-common_2.11.jar(src) (122ms)
 [debug] 	[NOT REQUIRED] org.specs2#specs2-codata_2.11;3.8.6!specs2-codata_2.11.jar
-[debug] 	[NOT REQUIRED] org.specs2#specs2-codata_2.11;3.8.6!specs2-codata_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scalaz#scalaz-core_2.11;7.2.7!scalaz-core_2.11.jar
-[debug] 	[NOT REQUIRED] org.scalaz#scalaz-core_2.11;7.2.7!scalaz-core_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scalaz#scalaz-effect_2.11;7.2.7!scalaz-effect_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scalaz#scalaz-effect_2.11;7.2.7!scalaz-effect_2.11.jar
-[debug] 	[NOT REQUIRED] org.scalaz#scalaz-concurrent_2.11;7.2.7!scalaz-concurrent_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scalaz#scalaz-concurrent_2.11;7.2.7!scalaz-concurrent_2.11.jar
+[debug] 		tried /home/joel/.ivy2/local/org.specs2/specs2-codata_2.11/3.8.6/srcs/specs2-codata_2.11-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/specs2/specs2-codata_2.11/3.8.6/specs2-codata_2.11-3.8.6-sources.jar
+[info] downloading https://jcenter.bintray.com/org/specs2/specs2-codata_2.11/3.8.6/specs2-codata_2.11-3.8.6-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/specs2/specs2-codata_2.11/3.8.6/specs2-codata_2.11-3.8.6-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/specs2/specs2-codata_2.11/3.8.6/specs2-codata_2.11-3.8.6-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/specs2/specs2-codata_2.11/3.8.6/specs2-codata_2.11-3.8.6-sources.jar
+[info] 	[SUCCESSFUL ] org.specs2#specs2-codata_2.11;3.8.6!specs2-codata_2.11.jar(src) (122ms)
+[debug] 		tried /home/joel/.ivy2/local/org.scalaz/scalaz-core_2.11/7.2.7/jars/scalaz-core_2.11.jar
+[debug] 		tried /home/joel/.ivy2/local/org.scalaz/scalaz-core_2.11/7.2.7/srcs/scalaz-core_2.11-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7.jar
+[info] downloading https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7.jar
+[info] 	[SUCCESSFUL ] org.scalaz#scalaz-core_2.11;7.2.7!scalaz-core_2.11.jar (2781ms)
+[debug] 		tried https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scalaz/scalaz-core_2.11/7.2.7/scalaz-core_2.11-7.2.7-sources.jar
+[info] 	[SUCCESSFUL ] org.scalaz#scalaz-core_2.11;7.2.7!scalaz-core_2.11.jar(src) (1687ms)
+[debug] 		tried /home/joel/.ivy2/local/org.scalaz/scalaz-effect_2.11/7.2.7/srcs/scalaz-effect_2.11-sources.jar
+[debug] 		tried /home/joel/.ivy2/local/org.scalaz/scalaz-effect_2.11/7.2.7/jars/scalaz-effect_2.11.jar
+[debug] 		tried https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7-sources.jar
+[info] 	[SUCCESSFUL ] org.scalaz#scalaz-effect_2.11;7.2.7!scalaz-effect_2.11.jar(src) (118ms)
+[debug] 		tried https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7.jar
+[info] downloading https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scalaz/scalaz-effect_2.11/7.2.7/scalaz-effect_2.11-7.2.7.jar
+[info] 	[SUCCESSFUL ] org.scalaz#scalaz-effect_2.11;7.2.7!scalaz-effect_2.11.jar (924ms)
+[debug] 		tried /home/joel/.ivy2/local/org.scalaz/scalaz-concurrent_2.11/7.2.7/srcs/scalaz-concurrent_2.11-sources.jar
+[debug] 		tried /home/joel/.ivy2/local/org.scalaz/scalaz-concurrent_2.11/7.2.7/jars/scalaz-concurrent_2.11.jar
+[debug] 		tried https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7-sources.jar
+[info] 	[SUCCESSFUL ] org.scalaz#scalaz-concurrent_2.11;7.2.7!scalaz-concurrent_2.11.jar(src) (118ms)
+[debug] 		tried https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7.jar
+[info] downloading https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scalaz/scalaz-concurrent_2.11/7.2.7/scalaz-concurrent_2.11-7.2.7.jar
+[info] 	[SUCCESSFUL ] org.scalaz#scalaz-concurrent_2.11;7.2.7!scalaz-concurrent_2.11.jar (1045ms)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.8!scala-reflect.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.8!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar
+[debug] 		tried /home/joel/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/jars/scala-parser-combinators_2.11.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar (183ms)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.12!jline.jar(src)
-[debug] :: resolution report :: resolve 39ms :: artifacts dl 12ms
-[debug] 	report for josephus#josephus$sources_2.11;1.0 compile produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-compile.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 runtime produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-runtime.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 test produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-test.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 provided produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-provided.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 optional produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-optional.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 compile-internal produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-compile-internal.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 runtime-internal produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-runtime-internal.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 test-internal produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-test-internal.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 plugin produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-plugin.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 sources produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-sources.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 docs produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-docs.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 pom produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-pom.xml
-[debug] 	report for josephus#josephus$sources_2.11;1.0 scala-tool produced in /home/joel/ShoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-scala-tool.xml
-[debug] 	resolve done (39ms resolve - 12ms download)
+[debug] 		tried /home/joel/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.5/jars/scala-xml_2.11.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.5/scala-xml_2.11-1.0.5.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar (166ms)
+[debug] 		tried /home/joel/.ivy2/local/org.scala-lang/scala-compiler/2.11.5/srcs/scala-compiler-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar(src) (1907ms)
+[debug] 		tried /home/joel/.ivy2/local/org.scala-lang/scala-reflect/2.11.5/srcs/scala-reflect-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar(src) (1901ms)
+[debug] 		tried /home/joel/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.3/srcs/scala-xml_2.11-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(src) (229ms)
+[debug] 		tried /home/joel/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/srcs/scala-parser-combinators_2.11-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar
+[info] downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src) (198ms)
+[debug] 		tried /home/joel/.ivy2/local/jline/jline/2.12/srcs/jline-sources.jar
+[debug] 		tried https://jcenter.bintray.com/jline/jline/2.12/jline-2.12-sources.jar
+[info] downloading https://jcenter.bintray.com/jline/jline/2.12/jline-2.12-sources.jar ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.12/jline-2.12-sources.jar
+[debug] 	jcenter: downloading https://jcenter.bintray.com/jline/jline/2.12/jline-2.12-sources.jar.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/jline/jline/2.12/jline-2.12-sources.jar
+[info] 	[SUCCESSFUL ] jline#jline;2.12!jline.jar(src) (192ms)
+[debug] :: resolution report :: resolve 43ms :: artifacts dl 12817ms
+[debug] 	report for josephus#josephus$sources_2.11;1.0 compile produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-compile.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 runtime produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-runtime.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 test produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-test.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 provided produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-provided.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 optional produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-optional.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 compile-internal produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-compile-internal.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 runtime-internal produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-runtime-internal.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 test-internal produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-test-internal.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 plugin produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-plugin.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 sources produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-sources.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 docs produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-docs.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 pom produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-pom.xml
+[debug] 	report for josephus#josephus$sources_2.11;1.0 scala-tool produced in /home/joel/Documents/shoprSource/GoNitro/target/resolution-cache/reports/josephus-josephus$sources_2.11-scala-tool.xml
+[debug] 	resolve done (43ms resolve - 12817ms download)
